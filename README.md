@@ -1,6 +1,6 @@
 # Book Model using Three.js and Vanilla JS
 <br/>
-<img src="ss.png"/>  
+<img src="book.png"/>  
 <br/>
 
 ### Live Link - https://book-threejs.netlify.app/
